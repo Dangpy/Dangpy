@@ -13,11 +13,11 @@
 - Philosophy at Hankuk University of Foreign Studies.
 - Media Art, specializing in Broadcast Sound Engineering and Media Art, Daelim University College.
 
-#### 📑 Project
+#### 💻 Project
 
-- [T.tme]("https://github.com/Dangpy/T.TIME_CLIENT") FE development
+- T.tme FE development https://github.com/Dangpy/T.TIME_CLIENT
 
-- [대동멍지도]("https://github.com/Dangpy/Dangdang_map") Plan, Design, FE development
+- 대동멍지도 Plan, Design, FE development https://github.com/Dangpy/Dangdang_map
 
 #### 👾 Activities.
 
