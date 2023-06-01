@@ -17,8 +17,6 @@
 
 - T.tme FE development https://github.com/Dangpy/T.TIME_CLIENT
 
-- 대동멍지도 Plan, Design, FE development https://github.com/Dangpy/Dangdang_map
-
 #### 👾 Activities.
 
 | Title            | Period & Subject                                                                                                                     |
