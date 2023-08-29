@@ -15,7 +15,8 @@
 
 #### 💻 Project
 
-- T.tme FE development https://github.com/Dangpy/T.TIME_CLIENT
+- Palmspring FE development https://github.com/palm-springs/PalmSpringClient
+- T.tme FE development https://github.com/Dangpy/T.TIME_CLIENT ☕️[T.time 서비스 이용해보기!](https://ttime.site)
 
 #### 👾 Activities.
 
