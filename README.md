@@ -15,7 +15,7 @@
 
 #### 💻 Project
 
-- Palmspring FE development 📁[Palmspring 레포지토리 구경하기!](https://github.com/palm-springs/PalmSpringClient)
+- Palmspring FE development ☕️[palmspring 팀블로그 서비스 이용해보기!](https://palms.blog)
 - T.tme FE development 📁[T.time 레포지토리 구경하기!](https://github.com/Dangpy/T.TIME_CLIENT) ☕️[T.time 서비스 이용해보기!](https://ttime.site)
 
 #### 👾 Activities.
