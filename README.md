@@ -2,8 +2,10 @@
 
 ٩( ๑•̀o•́๑ )و
 
-> I aspire to create a service as a web developer that brings happiness to people,<br> as I believe happiness is paramount in life.💘
+> I aspire to create a service as a web developer that brings happiness to people.<br>
+Because I believe happiness is paramount in life.💘
 
+> A path is made by walking on it.(道行之而成)
 #### 🔅 Full Name: Jang MyungJI (장명지)
 
 ### 📚 Edu
